@@ -19,7 +19,7 @@
 	<array>
 		<dict>
 			<key>Bundle Identifier</key>
-			<string>com.runningwithcrayons.Alfred-2</string>
+			<string>com.runningwithcrayons.Alfred-3</string>
 			<key>Check Installed</key>
 			<true/>
 			<key>Link</key>
@@ -29,7 +29,7 @@
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Activate Alfred with the selected text. (Requires Alfred v2.)</string>
+	<string>Activate Alfred with the selected text. (Requires Alfred v3.)</string>
 	<key>Extension Identifier</key>
 	<string>popclip.extension.alfred</string>
 	<key>Extension Name</key>
